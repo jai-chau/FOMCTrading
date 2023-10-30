@@ -5,7 +5,6 @@ This document details a quantitative strategy designed to evaluate the impact of
 ## Table of Contents
 - [Summary](#summary)
 - [Rationale Behind the Strategy](#rationale-behind-the-strategy)
-- [Features & Components](#features--components)
 - [Future Recommendations](#future-recommendations)
 
 ## Summary
