@@ -22,3 +22,7 @@ Our quantitative strategy has revealed significant insights into the performance
 While the current results are promising, future iterations of this strategy should consider:
 1. Extending the dataset to include a more extensive range of announcements and market conditions.
 2. Integrating machine learning models to refine classifications and predictions further.
+
+![image](https://github.com/jai-chau/FOMCTrading/assets/78785071/5aee794e-f97c-408a-bfe4-bbd04e4516ef)
+![image](https://github.com/jai-chau/FOMCTrading/assets/78785071/64f6a22c-5d62-479e-9d96-f85387f7273c)
+
